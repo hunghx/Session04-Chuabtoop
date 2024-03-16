@@ -10,7 +10,7 @@ import java.util.Date;
 public class Employee {
     // fields
     // biến instance - thể hiện
-    public int id;
+    private int id;
     private String fullName;
     private Date birthday;
     private String address;
@@ -106,11 +106,13 @@ public class Employee {
         return salary*rate;
     }
     // nhập dữ liệu
-    public void inputData() throws ParseException { // né lỗi
+    public void inputData(boolean isAdd) throws ParseException { // né lỗi
         // chuyen doi tu String <-> Date sử dụng SimpleDateFormat
         // nhập id
-        System.out.println("Nhập mã nhân viên");
-        this.id = InputMethods.getInteger();
+        if (isAdd) {
+            System.out.println("Nhập mã nhân viên");
+            this.id = InputMethods.getInteger();
+        }
         System.out.println("Nhập tên nhân viên");
         this.fullName = InputMethods.getString();
         System.out.println("Nhập ngày sinh nhân viên");

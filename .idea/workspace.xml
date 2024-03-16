@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62079e4b-b191-403e-9b4c-380815cb27f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt-oop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/config/InputMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/run/EmployeeManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/run/EmployeeManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/run/EmployeeManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2dgO4x3EL2D6oY130aklLh7OaYJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,8 +40,9 @@
     "Application.EmployeeManagement.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AD/Desktop/Session04-Chuabtoop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710426068686</updated>
       <workItem from="1710426069851" duration="2165000" />
+      <workItem from="1710592702832" duration="2762000" />
     </task>
     <servers />
   </component>
